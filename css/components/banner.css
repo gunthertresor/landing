@@ -1,0 +1,18 @@
+.banner {
+  background-image: url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZiZTdjOGNmMWI0ODFjNDcxYWRhZDBiZGQyNDVmN2NiMjgzOTVmMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif)
+}
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
